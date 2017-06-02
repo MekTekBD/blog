@@ -277,7 +277,9 @@ img {
 @media (min-width: 900px) and (max-width: 5000px) {
 .gap
 {
-	margin-left: 150px;
+	margin-left: 100px;
+	margin-left:100px;
+	
 	
 }
 }
